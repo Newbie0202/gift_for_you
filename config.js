@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Bạn bánh bao ơi!',
+    introDesc: `Trái đất này nho nhỏ
+    Nhưng bạn đừng có lo
+    Trái tim này bỏ ngỏ
+    Tớ yêu bạn lắm đó !`,
+    btnIntro: ':v:v',
+    title: 'Thức đêm mới biết đêm dài , nhưng nay lại có bài 8 tháng 3 😙',
+    desc: 'Tớ chẳng biết hát biết ca , chỉ biết làm cái lâu la này :v',
+    btnYes: 'Khai mau có thích ko <33',
+    btnNo: 'Không thích thì nói , có j sai sai :3',
+    question:'Trên thế giới hơn 7 tỉ mà sao tôi lại mình người trong tym <3',
+    btnReply: 'Gửi cho bạn hay lý do lý  <3',
+    reply: 'Đừng có mà như cấu vs thằng này : <33333333',
+    mess: 'Mừng ngày phụ nữ , mừng ngày bạn gì xinh xinh :v (nhưng mà hơi ngố :V)🥰😘😘',
+    messDesc: 'Còn nhiều điều chờ phía trước , mạnh mẽ lên bạn gì đó ơi :V',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+   
 }
